@@ -13,13 +13,13 @@
   "main": "index.ios.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:DickyT/RCTRefreshControl.git"
+    "url": "git+https://github.com/world-wide-web/react-native-refresher.git"
   },
   "author": "Shuangzuan",
   "maintainers": [
     {
-      "name": "DickyT",
-      "email": "me@idickyt.com"
+      "name": "world-wide-web",
+      "email": "world-wide-web@foxmail.com>"
     }
   ]
 }
