@@ -1,7 +1,7 @@
 {
   "name": "react-native-refreshable",
   "description": "A pull down to refresh control for react native.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "react-component",
     "react-native",
@@ -13,7 +13,7 @@
   "main": "index.ios.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/world-wide-web/react-native-refresher.git"
+    "url": "git+https://github.com/world-wide-web/react-native-refreshable.git"
   },
   "author": "Shuangzuan",
   "maintainers": [
