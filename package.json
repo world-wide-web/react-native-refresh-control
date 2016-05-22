@@ -1,7 +1,7 @@
 {
-  "name": "react-native-refresh-control",
+  "name": "react-native-refreshable",
   "description": "A pull down to refresh control for react native.",
-  "version": "2.0.6",
+  "version": "0.0.1",
   "keywords": [
     "react-component",
     "react-native",
@@ -20,6 +20,10 @@
     {
       "name": "world-wide-web",
       "email": "world-wide-web@foxmail.com>"
+    },
+    {
+      "name": "rocman",
+      "email": "rocman@vip.qq.com"
     }
   ]
 }
